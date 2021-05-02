@@ -18,5 +18,6 @@ present Gas Level.
 ## Motor(s) Used
 <ul>
   <li>Servo Motor </li>
+  <li> 5V DC Motor </li>
  <ul>
 
