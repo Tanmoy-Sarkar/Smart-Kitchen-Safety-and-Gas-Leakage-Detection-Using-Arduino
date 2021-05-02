@@ -13,7 +13,7 @@ present Gas Level.
   <li> Buzzer </li>
   <li> LCD Dislplay (16*2) </li>
   <li> MQ-6 Gas Sensor </li>
- <ul>
+</ul>
    
 ## Motor(s) Used
 <ul>
