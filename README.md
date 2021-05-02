@@ -6,3 +6,17 @@ positon to close the door. At the same time the DC motor starts rotating to exha
 
 Again when the gas level gets to normal servo motor changes position and the door opens again,DC motor stops rotating and LCD shows the
 present Gas Level.
+
+## Sensors/Modules Used
+<ul>
+  <li> Relay Module </li>
+  <li> Buzzer </li>
+  <li> LCD Dislplay (16*2) </li>
+  <li> MQ-6 Gas Sensor </li>
+ <ul>
+   
+## Motor(s) Used
+<ul>
+  <li>Servo Motor </li>
+ <ul>
+
